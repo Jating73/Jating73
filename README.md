@@ -2,9 +2,8 @@
   <img src="https://raw.githubusercontent.com/RoyalEagle73/RoyalEagle73/master/coding-freak.gif">
 </p>
 
-.
 
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS)
+  ![](https://komarev.com/ghpvc/?username=Jating73&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 # 👋 Hi there, I'm Jatin Gambhir 
 
