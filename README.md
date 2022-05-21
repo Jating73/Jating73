@@ -55,11 +55,9 @@
 
 </details>
 
+<br />
+<br />
+
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Jatin Gambhir GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jating733&show_icons=true&theme=radical" />
-
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royaleagle73&show_icons=true&theme=radical)](https://github.com/royaleagle73/github-readme-stats)
